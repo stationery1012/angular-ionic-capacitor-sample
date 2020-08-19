@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">sampleApp</string>
+    <string name="title_activity_main">sampleApp</string>
+    <string name="package_name">com.stationery1012.app</string>
+    <string name="custom_url_scheme">com.stationery1012.app</string>
+</resources>

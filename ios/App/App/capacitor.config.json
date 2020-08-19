@@ -1,0 +1,13 @@
+{
+  "appId": "com.stationery1012.app",
+  "appName": "sampleApp",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
